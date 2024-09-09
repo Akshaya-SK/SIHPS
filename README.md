@@ -52,10 +52,10 @@ Ministry of Law and Justice
 The e-Portal aims to streamline legal processes, enhance transparency, and improve overall efficiency, benefiting legal professionals and the public alike.
 
 ## Proposed Solution / Architecture Diagram
-
+![architect](https://github.com/user-attachments/assets/557fb059-c82d-4264-bc21-556a76987246)
 
 ## Use Cases
-
+![image](https://github.com/user-attachments/assets/c439fedc-a843-44d8-a90a-976d5def369c)
 
 ## Technology Stack
 1. react.js
